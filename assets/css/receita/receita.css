@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: column;
     margin-bottom: 5rem;
+    border-style: hidden;
 }
 
 @media screen and (min-width: 0) {

@@ -1,12 +1,12 @@
 .menu__link {
-    color: #808080;
+    color: #ffffff;
     margin-right: 1.5rem;
     text-decoration: none;
     text-transform: lowercase;
 }
 
 .menu__link.ativo {
-    color: #333333;
+    color: #1a3b;
     font-weight: bold;
 }
 

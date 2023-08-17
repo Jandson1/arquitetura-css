@@ -7,5 +7,8 @@
 @media screen and (min-width: 768px) {
     .logo {
         display: block;
+        height: 4rem;
+        width: 8rem;
+    
     }
 }
